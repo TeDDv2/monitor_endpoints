@@ -1,4 +1,4 @@
 # monitor_endpoints
 
-ENJOY!
+ENJOY!🧌
 Discord: tedd230
