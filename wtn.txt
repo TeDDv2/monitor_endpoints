@@ -1,2 +1,6 @@
 COMING SOON! 
 API ENDPOINTS + BYPASS
+
+
+
+https://api-sell.wethenew.com/sell-nows?skip=0&take=50
